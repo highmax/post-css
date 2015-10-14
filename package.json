@@ -1,0 +1,27 @@
+{
+  "name": "post-css",
+  "version": "1.0.0",
+  "description": "a post-css project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/highmax/post-css.git"
+  },
+  "author": "Alejandro Navarro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/highmax/post-css/issues"
+  },
+  "homepage": "https://github.com/highmax/post-css",
+  "devDependencies": {
+    "autoprefixer": "^6.0.3",
+    "cssnext": "^1.8.4",
+    "es6-promise": "^3.0.2",
+    "gulp": "^3.9.0",
+    "gulp-postcss": "^6.0.1",
+    "precss": "^1.2.3"
+  }
+}
